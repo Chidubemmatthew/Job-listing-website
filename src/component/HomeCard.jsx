@@ -1,5 +1,6 @@
+import Card from './Card'
 import { Link } from "react-router-dom";
-import Card from '../component/Card'
+
 
 const HomeCard = () => {
   return (
