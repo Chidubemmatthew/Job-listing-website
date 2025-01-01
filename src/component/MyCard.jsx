@@ -1,6 +1,7 @@
 import React from 'react'
 
-const Card = ({ children, bg = 'bg-gray-100 ' }) => {
+const MyCard = 
+ ({ children, bg = 'bg-gray-100 ' }) => {
   return (
     <div>
       <div className={`${bg} p-6 rounded-lg shadow-md`}>{children}</div>
@@ -8,4 +9,4 @@ const Card = ({ children, bg = 'bg-gray-100 ' }) => {
   )
 }
 
-export default Card
+export default MyCard
