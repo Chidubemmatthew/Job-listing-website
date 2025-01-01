@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "5cac",
-      "title": "LAUNDRY",
-      "type": "Full-Time",
-      "location": "lagos, Nigeria /NG",
-      "description": "laundry is way of rebranding your worn cloths to look clean again",
-      "salary": "$80k - $90k",
-      "company": {
-        "name": "VERDANT ",
-        "description": "verdant is a well known laundry company around the world specialized in turning your dirty cloth to new wears.",
-        "contactEmail": "verdantcleaningservices@gmail.com",
-        "contactPhone": "07084925898"
-      }
     }
   ]
 }

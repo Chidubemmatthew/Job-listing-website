@@ -6,7 +6,7 @@ const override = {
 
 }
 
-const spinner = ({loading}) => {
+const Spinner = ({loading}) => {
     return (
         <ClipLoader
             color="4338ca" 
@@ -17,4 +17,4 @@ const spinner = ({loading}) => {
   )
 }
 
-export default spinner
+export default Spinner
